@@ -1080,7 +1080,6 @@ The successful testing of these components demonstrates how different technologi
 
 ## Academic Information
 
-**Course:** CSCI 311 — Systems Programming
 
 **Project:** SecureChain — Blockchain-Based Secure File Transfer System
 
@@ -1088,7 +1087,7 @@ The successful testing of these components demonstrates how different technologi
 
 **Semester:** Fall 2026
 
-**Project Type:** Collaborative Final Project
+**Project Type:** Collaborative  Project
 
 **Development Environment:** Ubuntu and Google Cloud Platform
 

@@ -1,0 +1,7 @@
+FROM node:20-bookworm-slim
+
+WORKDIR /app
+
+RUN npm install -g truffle@5.11.5
+
+CMD ["truffle", "version"]

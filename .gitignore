@@ -30,3 +30,11 @@
 # Snapshot cheatcodes output
 /snapshots
 /build/
+# SecureChain private keys and runtime data
+/keys/
+/storage/
+/backend/storage/
+.venv/
+__pycache__/
+*.pyc
+.env
